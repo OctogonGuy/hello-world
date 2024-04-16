@@ -1,4 +1,4 @@
-package com.octopusdragon.helloworld;
+package tech.octopusdragon.helloworld;
 
 import java.util.*;
 
